@@ -1,6 +1,6 @@
 
-- [About](test.md)
-- 
+[Support](README.md)  
+
 # Bubix
 
 ## Datenschutzrichtlinie
