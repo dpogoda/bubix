@@ -1,4 +1,4 @@
-[Datenschutz](README.md)  
+[Datenschutz](privacy.md)  
 
 ## Support
 
